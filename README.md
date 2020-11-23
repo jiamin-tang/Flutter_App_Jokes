@@ -1,6 +1,6 @@
-# hello_world
+# Jokes
 
-A new Flutter project.
+This is an Flutter project for displaying jokes. Everytime the user hits the button, the page refreshes and grabs the joke setup from API. When loading data, the page shows "waiting". 
 
 ## Getting Started
 
